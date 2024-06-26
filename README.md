@@ -1,3 +1,3 @@
 # Spintend-manuals
-Wiki
+Wiki  
 https://github.com/JohnSpintend/Spintend-manuals/wiki
